@@ -1,5 +1,12 @@
 문서정보 : 20xx.xx.xx. (원본 20xx.xx.xx. 작성) 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
+## 바로 사용하기
+```bash
+docker run -it --gpus all -p 18081:8080 -d juhyung1021/nvidia_cuda_cpp_vscode_docker_gpupu_programming:12.2.0
+# or
+nvidia-docker run -it -p 18081:8080 -d juhyung1021/nvidia_cuda_cpp_vscode_docker_gpupu_programming:12.2.0
+```
+
 # CUDA_GPUPU_Programming
 - Learn And Use CUDA GPUPU Programming
 - CUDA GPUPU 프로그래밍에 대해서 익히고 활용한다.
