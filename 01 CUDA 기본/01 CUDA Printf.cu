@@ -1,7 +1,7 @@
 // - Build
-// nvcc -o "CUDA 기본/CudaNormal" "CUDA 기본/CudaNormal.cu" --expt-relaxed-constexpr -lcurand -lcuda -lcudart -lcublas
+// nvcc -o "01 CUDA 기본/01 CUDA Printf" "01 CUDA 기본/01 CUDA Printf.cu" --expt-relaxed-constexpr -lcurand -lcuda -lcudart -lcublas
 // - Run
-// "./CUDA 기본/CudaNormal"
+// "./01 CUDA 기본/01 CUDA Printf"
 
 #include <cuda_runtime.h>
 #include <iostream>

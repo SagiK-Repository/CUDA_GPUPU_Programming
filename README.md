@@ -14,11 +14,13 @@ nvidia-docker run -it -p 18081:8080 -d juhyung1021/nvidia_cuda_cpp_vscode_docker
 <br>
 
 ### 목표
-- [ ] : CUDA
-- [ ] : cuDNN
-- [ ] : CUDA 프로그래밍 (1) Printf
-- [ ] : CUDA 프로그래밍 (2) Thread
-- [ ] : CUDA 프로그래밍 (3) Memory
+- 00 기본 내용
+  - [ ] CUDA
+  - [ ] cuDNN
+- 01 CUDA 기본
+  - [ ] 01 CUDA Printf
+  - [ ] 02 CUDA Thread
+  - [ ] 03 CUDA Memory
 - [ ] : CUDA 프로그래밍 (4) Synchronize
 - [ ] : CUDA 프로그래밍 (5) Memory Types
 - [ ] : CUDA 프로그래밍 (6) Device Check
