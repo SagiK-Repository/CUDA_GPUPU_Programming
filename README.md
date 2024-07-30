@@ -18,9 +18,14 @@ nvidia-docker run -it -p 18081:8080 -d juhyung1021/nvidia_cuda_cpp_vscode_docker
   - [ ] CUDA
   - [ ] cuDNN
 - 01 CUDA 기본
-  - [ ] 01 CUDA Printf
-  - [ ] 02 CUDA Thread
-  - [ ] 03 CUDA Memory
+  - [x] 01 CUDA Printf
+  - [x] 02 CUDA Thread
+  - [x] 03 CUDA Memory
+  - [x] 04 CUDA Error Check
+  - [x] 05 CUDA Elapsed
+  - [x] 06 CUDA Synchronize
+  - [x] 07 CUDA Device Check
+  - [x] 08 CUDA Pinned Memory
 - [ ] : CUDA 프로그래밍 (4) Synchronize
 - [ ] : CUDA 프로그래밍 (5) Memory Types
 - [ ] : CUDA 프로그래밍 (6) Device Check
